@@ -11,6 +11,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         init();
         initDatao();
+        initDatao1();
+        initDatao2();
+        
+    }
+
+    private void initDatao2() {
+    }
+
+    private void initDatao1() {
     }
 
     private void initDatao() {
